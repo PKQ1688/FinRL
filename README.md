@@ -22,7 +22,7 @@ Feel free to report bugs via Github issues, join the mailing list: [AI4Finance](
 
 <br/>
 
-<a href="https://join.slack.com/t/ai4financeworkspace/shared_invite/zt-oblei8vm-0BLGoXJsEK6dioPjqz_g2g" target="\_blank">
+<a href="https://join.slack.com/t/ai4financeworkspace/shared_invite/zt-q0wm9yqs-38rj2CBTyTNdgZFX61ZEgQ" target="\_blank">
 	<div align="center">
 		<img src=figs/join_slack.png width="40%"/>
 	</div>
@@ -253,6 +253,8 @@ The stock data we use is pulled from Yahoo Finance API.
 ## Call for Contributions
 
 Will maintain FinRL with the "AI4Finance" community and welcome your contributions!
+
+Please check the [contributing guidances](https://github.com/AI4Finance-LLC/FinRL/blob/master/contributing.md).
 
 ### Contributors
 
